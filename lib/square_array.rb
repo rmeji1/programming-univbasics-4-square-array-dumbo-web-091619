@@ -6,5 +6,5 @@ def square_array(array)
   # end
   # array
   
-  for element in array
+  
 end
