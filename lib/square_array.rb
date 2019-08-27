@@ -5,4 +5,6 @@ def square_array(array)
   #   counter += 1
   # end
   # array
+  
+  for element in array
 end
