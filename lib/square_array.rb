@@ -6,5 +6,7 @@ def square_array(array)
   # end
   # array
   
+  for index in 0...array.size
   
+  end
 end
